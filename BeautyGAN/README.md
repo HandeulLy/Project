@@ -6,14 +6,16 @@
 </h3>
 
 <hr>
+<hr>
+<hr>
 
 # Personal Makeup Application - Etching
 
 ## App introduction
 
-**ENG : This app is composed of a web app. It is equipped with skin tone, face ratio, and makeup transfer by receiving the user's image and was built to enable communication between users.**
+ENG : This app is composed of a web app. It is equipped with skin tone, face ratio, and makeup transfer by receiving the user's image and was built to enable communication between users.
 
-**KR : 이 앱은 웹앱으로 구성되어 있으며 사용자의 이미지를 입력받아 피부톤,얼굴비율, 화장이전 을 탑재하고 있으며 사용자간 커뮤니케이션을 이룰수 있도록 구축하였습니다. **
+KR : 이 앱은 웹앱으로 구성되어 있으며 사용자의 이미지를 입력받아 피부톤,얼굴비율, 화장이전 을 탑재하고 있으며 사용자간 커뮤니케이션을 이룰수 있도록 구축하였습니다.
 
 ## Main Function(주요기능)
 
@@ -68,7 +70,7 @@ Use Mobile : iPhone X
 
 ### default Page, My Page(내정보수정),  User Page (Follow, Following)
 
-<img src="https://github.com/roche-MH/etching/blob/master/image/default%20mypage.png?raw=true" alt="image-20200922014340448" style="zoom:50%;" /><img src="https://github.com/roche-MH/etching/blob/master/image/mypage.png?raw=true" alt="image-20200922014959413" style="zoom:50%;" /><img src="https://github.com/roche-MH/etching/blob/master/image/User%20page.png?raw=true" alt="image-20200922014616810" style="zoom:50%;" />
+<img src="https://github.com/roche-MH/etching/blob/master/image/default%20mypage.png?raw=true" alt="image-20200922014340448" style="zoom:50%;" /><img src="https://github.com/roche-MH/etching/blob/master/image/mypage.png?raw=true" alt="image-20200922014959413" style="zoom:50%;" />
 
 
 
@@ -86,4 +88,4 @@ Use Mobile : iPhone X
 
 ### My post edit, My profile edit
 
-<img src="https://github.com/roche-MH/etching/blob/master/image/postedit.png?raw=true" alt="image-20200922020351632" style="zoom:50%;" /><img src="https://github.com/roche-MH/etching/blob/master/image/postedit2.png?raw=true" alt="image-20200922020559011" style="zoom:50%;" /><img src="https://github.com/roche-MH/etching/blob/master/image/profileedit.png?raw=true" alt="image-20200922020414308" style="zoom:50%;" />
+<img src="https://github.com/roche-MH/etching/blob/master/image/postedit.png?raw=true" alt="image-20200922020351632" style="zoom:50%;" /><img src="https://github.com/roche-MH/etching/blob/master/image/postedit2.png?raw=true" alt="image-20200922020559011" style="zoom:50%;" />
