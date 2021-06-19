@@ -23,8 +23,9 @@
 
 
 <hr>
-
 ### [기획]
+
+
 
 
 
@@ -45,4 +46,7 @@
 ##### 3) 화장하는 AI
 
 - 얼굴 인식과 BeautyGAN 모델을 활용한 맞춤 메이크업 서비스
+
 - <a href="https://github.com/HandeulLy/project/tree/master/BeautyGAN">Link</a>
+
+  
