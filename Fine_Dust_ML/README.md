@@ -64,7 +64,7 @@ Machine Learning 기법
 
 
 
-모델 결과 분석
+모델 학습 및 결과 분석
 
 <img src='./img/fine_dust_img_07.png'>
 
@@ -77,4 +77,21 @@ DT : Depth 5~15의 범위엣 좋은 성능, 9일 때 Best Accuracy 0.92
 
 
 <hr>
+Deep Learning 기법
+
+
+
+<img src='./img/fine_dust_img_08.png'>
+
+
+
+모델 구축
+
+<img src='./img/fine_dust_img_09.png'>
+
+
+
+모델 학습
+
+<img src='./img/fine_dust_img_10.png'>
 
